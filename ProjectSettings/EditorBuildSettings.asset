@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 96c87f323ca781a4dbb826e34d7cad27
+  - enabled: 1
+    path: Assets/Scenes/Deck.unity
+    guid: 2ed94c26ebd5e75489db0065dc7dd220
+  - enabled: 1
+    path: Assets/Scenes/Captians Quarters.unity
+    guid: 591226b2ade494f44af43e718f6859a3
+  - enabled: 1
+    path: Assets/Scenes/Adventure Manager Additive Scene.unity
+    guid: aee9ab9d922f4c44b880f767a20df79a
+  - enabled: 1
+    path: Assets/Scenes/Hallway.unity
+    guid: 1e75d28018192754db20775d89b62095
+  - enabled: 1
+    path: Assets/Scenes/Lighting.unity
+    guid: 94d592a1669d9e44b8408f24a160d6f1
+  - enabled: 1
+    path: Assets/Scenes/Galley.unity
+    guid: 0bf888b3e14e8f14a9745c36347e27aa
+  - enabled: 1
+    path: Assets/Scenes/Bilge.unity
+    guid: b6f729d49def67744984a1fc68de1b30
+  - enabled: 1
+    path: Assets/Scenes/Seamen Quarters.unity
+    guid: 38986038b3c1d124b9a98e6c94e0b11a
+  - enabled: 1
+    path: Assets/Scenes/Hold.unity
+    guid: 013b7e4f8854e8948af26d8f64f6a589
+  - enabled: 1
+    path: Assets/Scenes/Mates Quarters.unity
+    guid: 084f128f8995b0849b286e71f7a93dab
+  - enabled: 1
+    path: Assets/Scenes/Twist/Twist Hallway.unity
+    guid: 4c8e1135f01358947b68b09c00f24333
+  - enabled: 1
+    path: Assets/Scenes/Option Menu.unity
+    guid: 26608dfabc1839d478106c4522c81f3e
+  - enabled: 1
+    path: Assets/Scenes/Twist/SafeRoom.unity
+    guid: bb783c262f0d59a46ab160d6b4890162
+  - enabled: 1
+    path: Assets/Scenes/Twist/Twist Adventure Scene.unity
+    guid: 68c324cf9a7a2c54b8afbb1164071b0f
+  - enabled: 1
+    path: Assets/Scenes/Twist/Twist Hold.unity
+    guid: f5003309b65d4c048ae0f4b251beea38
+  - enabled: 1
+    path: Assets/Scenes/Loading.unity
+    guid: d6f1928abf1797346bbc09317065c4aa
+  m_configObjects: {}
