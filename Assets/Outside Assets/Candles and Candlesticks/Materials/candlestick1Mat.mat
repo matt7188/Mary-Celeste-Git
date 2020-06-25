@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: candlestick1Mat
+  m_Shader: {fileID: 4800000, guid: 538d995647cca394c8112fcccf373065, type: 3}
+  m_ShaderKeywords: _USEAOMAP_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AORMetalGRoughB:
+        m_Texture: {fileID: 2800000, guid: 5f4c98a8840f9fd41af2b63f88c0eb0c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BaseColorRGB:
+        m_Texture: {fileID: 2800000, guid: cf81d8959451be84fb2286c32211a214, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ColorRGBRoughA:
+        m_Texture: {fileID: 2800000, guid: 54fe8f0947c06f04383d2f30cc2a48aa, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Cubemap:
+        m_Texture: {fileID: 8900000, guid: f466cf7415226e046b096197eb7341aa, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Diffuse:
+        m_Texture: {fileID: 2800000, guid: 0e4403c07f66df445a35a9638372765c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DiffuseCubemap:
+        m_Texture: {fileID: 8900000, guid: 228eae4f1aa1e2d49b10ec373fa0f5c7, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Lightmap:
+        m_Texture: {fileID: 2800000, guid: 9cbef6faede942e4bbbdb1f675f11171, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetalRAOBSpecGRoughA:
+        m_Texture: {fileID: 2800000, guid: 5f4c98a8840f9fd41af2b63f88c0eb0c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Metalness:
+        m_Texture: {fileID: 2800000, guid: 6177ea732ac7b0341adc52764a975878, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normal:
+        m_Texture: {fileID: 2800000, guid: 2cdc744f4cc24a644aba110f3cf4d640, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalRGB:
+        m_Texture: {fileID: 2800000, guid: 444c7ddf2f7489748b1a1cf214e6b7c5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Roughness:
+        m_Texture: {fileID: 2800000, guid: f283c34de9bb50d4489171d540b28fc7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecularCubemap:
+        m_Texture: {fileID: 8900000, guid: 94f6d79b15ca2b847adcabdde256b96f, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AOInfluence: 0.5875
+    - _LightmapInfluence: 0
+    - _MaxSpecularMipLevel: 6
+    - _UseAOMap: 1
+    - _node_9231: 0.2
+    m_Colors:
+    - _Color: {r: 0.8, g: 0.8, b: 0.8, a: 1}
