@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d168ecc76ea53e4498ce4b2e12853743, type: 3}
+  m_Name: E^^_c
+  m_EditorClassIdentifier: 
+  introText: What can you tell me about ____?
+  optionsText: []
+  targetDialogueNodes: []
+  isEndDialogue: 0
+  isTimeQuery: 0
+  isInventoryQuery: 1
+  isCharacterDialogueQuery: 0
+  isOpinionQuery: 0
+  modifiesQueryLimit: 1
+  trait: 0
+  relation: 0
+  traitIndex: 0
+  characterToModify: {fileID: 0}
+  traitToModify: 0
+  modificationAmount: 0
+  DismissalNode: {fileID: 11400000, guid: 599b0136494de2347986e5e9b332e532, type: 2}

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d168ecc76ea53e4498ce4b2e12853743, type: 3}
+  m_Name: R^^_c
+  m_EditorClassIdentifier: 
+  introText: 
+  optionsText:
+  - Vial of Rat Poison
+  targetDialogueNodes:
+  - {fileID: 11400000, guid: 8375e223044355a429945ea994542038, type: 2}
+  isEndDialogue: 0
+  isTimeQuery: 0
+  isInventoryQuery: 1
+  isCharacterDialogueQuery: 0
+  isOpinionQuery: 0
+  modifiesQueryLimit: 0
+  trait: 0
+  relation: 0
+  traitIndex: 0
+  characterToModify: {fileID: 0}
+  traitToModify: 0
+  modificationAmount: 0
+  DismissalNode: {fileID: 0}

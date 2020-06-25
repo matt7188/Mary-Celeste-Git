@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: chamberstickMat
+  m_Shader: {fileID: 4800000, guid: 538d995647cca394c8112fcccf373065, type: 3}
+  m_ShaderKeywords: _USEAOMAP_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AORMetalGRoughB:
+        m_Texture: {fileID: 2800000, guid: b60e4e668c8224540971036b5544be15, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ColorRGBRoughA:
+        m_Texture: {fileID: 2800000, guid: f98240d04c8800f4b8aae2fdcd0597cf, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DiffuseCubemap:
+        m_Texture: {fileID: 8900000, guid: 228eae4f1aa1e2d49b10ec373fa0f5c7, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Lightmap:
+        m_Texture: {fileID: 2800000, guid: 9cbef6faede942e4bbbdb1f675f11171, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetalRAOBSpecGRoughA:
+        m_Texture: {fileID: 2800000, guid: 924fb9b92efb2584cad9a1a30280785a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalRGB:
+        m_Texture: {fileID: 2800000, guid: 51ade82bca2082141b5371ee2421e34e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecularCubemap:
+        m_Texture: {fileID: 8900000, guid: 94f6d79b15ca2b847adcabdde256b96f, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AOInfluence: 0.3
+    - _LightmapInfluence: 0
+    - _MaxSpecMipLevel: 6
+    - _MaxSpecularMipLevel: 6
+    - _UseAOMap: 1
+    m_Colors:
+    - _Color: {r: 0.8, g: 0.8, b: 0.8, a: 1}

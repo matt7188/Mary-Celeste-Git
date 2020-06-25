@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7dd67fcdfe84b64fa8dc31ff85022b9, type: 3}
+  m_Name: R^^_
+  m_EditorClassIdentifier: 
+  introText: Mrs. Briggs. How may I be of service to you?
+  optionsText:
+  - Are you feeling alright, dear?
+  - Where were you ____?
+  - What can you tell me about ____?
+  - What do you think about ____?
+  - I think the murderer is ____?
+  - I need to go now.
+  targetDialogueNodes:
+  - {fileID: 11400000, guid: 060e3382799f8294aaa4bb2e6fcab241, type: 2}
+  - {fileID: 11400000, guid: af323484045c4be4287a0ac68984fe5c, type: 2}
+  - {fileID: 11400000, guid: f7f40c6164e3f7f45acf9bce076b2a27, type: 2}
+  - {fileID: 11400000, guid: 45775367edcd1ca498093cf26e29da19, type: 2}
+  - {fileID: 11400000, guid: b9c34d2c023a66443821d1368d6f99dd, type: 2}
+  - {fileID: 11400000, guid: 5c417ded6ac12e34caa278a924893fdd, type: 2}
+  isEndDialogue: 0
+  isTimeQuery: 0
+  isInventoryQuery: 0
+  isCharacterDialogueQuery: 0
+  isOpinionQuery: 0
+  modifiesQueryLimit: 0
+  trait: 1
+  relation: 0
+  traitIndex: 9
+  characterToModify: {fileID: 0}
+  traitToModify: 0
+  modificationAmount: 0
