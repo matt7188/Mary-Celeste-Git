@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: bcbc1c8c4d2645940809fcd37283378c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: book_cover
+    100004: book_cover_1
+    100006: book_cover_2
+    100008: bottom__swivel
+    100010: bottom__swivel_2
+    100012: clapse
+    100014: clapse_1
+    100016: Cube_1
+    100018: Cube_1_2
+    100020: Cube_1_3
+    100022: Cube_1_4
+    100024: Cylinder
+    100026: Cylinder_2
+    100028: Cylinder_3
+    100030: Cylinder_4
+    100032: gem
+    100034: gem_1
+    100036: gem_2
+    100038: Joint
+    100040: Joint_1
+    100042: Joint_2
+    100044: Joint_3
+    100046: latch
+    100048: latch_2
+    100050: Light
+    100052: lower_pages
+    100054: Root
+    100056: top_pages
+    100058: top_swivel
+    100060: top_swivel_2
+    100062: Torus_2
+    100064: Torus_2_2
+    100066: wrap_1
+    400000: //RootNode
+    400002: book_cover
+    400004: book_cover_1
+    400006: book_cover_2
+    400008: bottom__swivel
+    400010: bottom__swivel_2
+    400012: clapse
+    400014: clapse_1
+    400016: Cube_1
+    400018: Cube_1_2
+    400020: Cube_1_3
+    400022: Cube_1_4
+    400024: Cylinder
+    400026: Cylinder_2
+    400028: Cylinder_3
+    400030: Cylinder_4
+    400032: gem
+    400034: gem_1
+    400036: gem_2
+    400038: Joint
+    400040: Joint_1
+    400042: Joint_2
+    400044: Joint_3
+    400046: latch
+    400048: latch_2
+    400050: Light
+    400052: lower_pages
+    400054: Root
+    400056: top_pages
+    400058: top_swivel
+    400060: top_swivel_2
+    400062: Torus_2
+    400064: Torus_2_2
+    400066: wrap_1
+    2100000: paper
+    2100002: paper2
+    2100004: gem trim
+    2100006: gem_silver
+    2100008: gem
+    2100010: cl1
+    2100012: cl2
+    2100014: cl3
+    2100016: cl4
+    2100018: cl5
+    2100020: cl6
+    2100022: book_cover
+    2100024: corner images
+    2100026: cover_trim
+    2100028: No Name
+    2300000: Cube_1
+    2300002: Cube_1_2
+    2300004: Cube_1_3
+    2300006: Cube_1_4
+    2300008: Cylinder
+    2300010: Cylinder_2
+    2300012: Cylinder_3
+    2300014: Cylinder_4
+    2300016: gem
+    2300018: gem_1
+    2300020: gem_2
+    2300022: latch
+    2300024: latch_2
+    2300026: lower_pages
+    2300028: top_pages
+    2300030: Torus_2
+    2300032: Torus_2_2
+    2300034: wrap_1
+    3300000: Cube_1
+    3300002: Cube_1_2
+    3300004: Cube_1_3
+    3300006: Cube_1_4
+    3300008: Cylinder
+    3300010: Cylinder_2
+    3300012: Cylinder_3
+    3300014: Cylinder_4
+    3300016: gem
+    3300018: gem_1
+    3300020: gem_2
+    3300022: latch
+    3300024: latch_2
+    3300026: lower_pages
+    3300028: top_pages
+    3300030: Torus_2
+    3300032: Torus_2_2
+    3300034: wrap_1
+    4300000: top_pages
+    4300002: lower_pages
+    4300004: gem_1
+    4300006: gem
+    4300008: gem_2
+    4300010: Cylinder
+    4300012: Cube_1
+    4300014: Cube_1_2
+    4300016: latch
+    4300018: Torus_2
+    4300020: Cylinder_2
+    4300022: Cylinder_3
+    4300024: Cube_1_3
+    4300026: Cube_1_4
+    4300028: latch_2
+    4300030: Torus_2_2
+    4300032: Cylinder_4
+    4300034: book_cover
+    4300036: book_cover_2
+    4300038: book_cover_1
+    4300040: wrap_1
+    7400000: CINEMA_4D_Main
+    9500000: //RootNode
+    10800000: Light
+    13700000: book_cover
+    13700002: book_cover_1
+    13700004: book_cover_2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

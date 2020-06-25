@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7dd67fcdfe84b64fa8dc31ff85022b9, type: 3}
+  m_Name: S^^_
+  m_EditorClassIdentifier: 
+  introText: There you are Momma!
+  optionsText:
+  - How are you feeling?
+  - Where were you ____?
+  - What can you tell me about ____?
+  - What do you think about ____?
+  - I think the murderer is ____?
+  - I need to go now.
+  targetDialogueNodes:
+  - {fileID: 11400000, guid: 12489ff06478ffd438687cf12ed3d426, type: 2}
+  - {fileID: 11400000, guid: 5e695e72de44086439d2a4a85396ce00, type: 2}
+  - {fileID: 11400000, guid: 7b16b587dd6c7d64cb95689443364ae7, type: 2}
+  - {fileID: 11400000, guid: 443163731fdbfb64a9421697fbc82486, type: 2}
+  - {fileID: 11400000, guid: 65507617e14b3df41b13c2203b86d812, type: 2}
+  - {fileID: 11400000, guid: e6e737ed33aab7b418a802671cf3675d, type: 2}
+  isEndDialogue: 0
+  isTimeQuery: 0
+  isInventoryQuery: 0
+  isCharacterDialogueQuery: 0
+  isOpinionQuery: 0
+  modifiesQueryLimit: 0
+  trait: 0
+  relation: 0
+  traitIndex: 0
+  characterToModify: {fileID: 0}
+  traitToModify: 0
+  modificationAmount: 0

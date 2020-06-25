@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7dd67fcdfe84b64fa8dc31ff85022b9, type: 3}
+  m_Name: B5
+  m_EditorClassIdentifier: 
+  introText: No more than the rest of us.
+  optionsText:
+  - "That\u2019s not very comforting, Benjamin."
+  targetDialogueNodes:
+  - {fileID: 11400000, guid: 8aa7ae455126d32488d23d23e53e0623, type: 2}
+  isEndDialogue: 0
+  isTimeQuery: 0
+  isInventoryQuery: 0
+  trait: 0
+  relation: 0
+  traitIndex: 0
+  characterToModify: {fileID: 0}
+  traitToModify: 0
+  modificationAmount: 0
