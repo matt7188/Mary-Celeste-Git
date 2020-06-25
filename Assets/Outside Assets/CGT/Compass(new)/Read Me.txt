@@ -1,0 +1,10 @@
+Thanks for the purchase, for any questions about the asset, contact me at wesi.tebogo@gmail.com.
+
+Texture Name Endings:
+
+AL = Albedo
+NM = Normal Maps
+AO = Occlusions
+MT = Metallic
+SP = Specular
+GL = Gloss

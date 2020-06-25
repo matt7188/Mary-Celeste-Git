@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: f2ba1d5d40e47eb4eb2c53690b1335d4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Object001
+    100004: Rope_BeamHitch
+    100006: Rope_detached001
+    100008: Rope_notched001
+    100010: Rope_segment001
+    100012: RopeHangingA
+    100014: RopeHangingB
+    100016: RopeHangingC
+    100018: RopeLoop
+    400000: //RootNode
+    400002: Object001
+    400004: Rope_BeamHitch
+    400006: Rope_detached001
+    400008: Rope_notched001
+    400010: Rope_segment001
+    400012: RopeHangingA
+    400014: RopeHangingB
+    400016: RopeHangingC
+    400018: RopeLoop
+    2100000: Rope_mtl
+    2300000: Object001
+    2300002: Rope_BeamHitch
+    2300004: Rope_detached001
+    2300006: Rope_notched001
+    2300008: Rope_segment001
+    2300010: RopeHangingA
+    2300012: RopeHangingB
+    2300014: RopeHangingC
+    2300016: RopeLoop
+    3300000: Object001
+    3300002: Rope_BeamHitch
+    3300004: Rope_detached001
+    3300006: Rope_notched001
+    3300008: Rope_segment001
+    3300010: RopeHangingA
+    3300012: RopeHangingB
+    3300014: RopeHangingC
+    3300016: RopeLoop
+    4300000: Rope_BeamHitch
+    4300002: RopeHangingA
+    4300004: RopeHangingB
+    4300006: RopeHangingC
+    4300008: RopeLoop
+    4300010: Object001
+    4300012: Rope_detached001
+    4300014: Rope_notched001
+    4300016: Rope_segment001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

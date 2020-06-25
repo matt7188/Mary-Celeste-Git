@@ -1,0 +1,17 @@
+# 3ds Max Wavefront OBJ Exporter v0.94b - (c)2007 guruware
+# File Created: 20.10.2012 19:17:13
+
+newmtl wall_picture_B
+	Ns 22.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.5490 0.5490 0.5490
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\3d_Models\newMarket\models\Fantasy_Ship\FURNITURE\M_Picture_B_color.tif
+	map_Kd D:\3d_Models\newMarket\models\Fantasy_Ship\FURNITURE\M_Picture_B_color.tif
+	map_bump -bm 0.7500 Map__266_Normal Bump.tga

@@ -1,0 +1,12 @@
+To set up the material in Unity 5 do the following:
+
+First of rescale the textures for your liking, I do not recommend using 4k textures for a game but its up to you.
+Import the textures with your desired texture resulution.
+
+Connect "TEXTURENAME_Albedo" to "Albedo"
+Connect "TEXTURENAME_MetallicSmoothness" to "Metallic"
+Connect "TEXTURENAME_Normal" to "Normal Map"*
+
+
+* When loading the normal map into the material you might get a popup under it saying "This texture is not marked as normal map"
+make sure you click the button "Fix Now" or go into the texture and make sure it's marked as a normal map.

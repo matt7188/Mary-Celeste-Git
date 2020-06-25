@@ -1,0 +1,6 @@
+C:\Users\Infographiste\Pictures\Mes images\beeding\BLANKET 203 x 92\Blanket V1\t$m$p$$$\Blanket V1.max
+C:\Users\Infographiste\Pictures\Mes images\beeding\BLANKET 203 x 92\Blanket V1\t$m$p$$$\MAXFILES.TXT
+C:\Users\Infographiste\Pictures\Mes images\beeding\BLANKET 203 x 92\Blanket V1\tex\Blanket V1diffuse.png
+C:\Users\Infographiste\Pictures\Mes images\beeding\BLANKET 203 x 92\Blanket V1\tex\Blanket V1 metalness.png
+C:\Users\Infographiste\Pictures\Mes images\beeding\BLANKET 203 x 92\Blanket V1\tex\Blanket V1 roughness.png
+C:\Users\Infographiste\Pictures\Mes images\beeding\BLANKET 203 x 92\Blanket V1\tex\Blanket V1 normal.png

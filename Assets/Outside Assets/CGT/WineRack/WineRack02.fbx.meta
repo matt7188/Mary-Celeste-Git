@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: ab6b1a9e52f5a854d8c7b64fa7e7454e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Circle.018
+    100002: Circle.019
+    100004: Circle.020
+    100006: Circle.024
+    100008: Circle.027
+    100010: Circle.028
+    100012: Circle.029
+    100014: Circle.030
+    100016: Circle.031
+    100018: Cube.156
+    100020: //RootNode
+    400000: Circle.018
+    400002: Circle.019
+    400004: Circle.020
+    400006: Circle.024
+    400008: Circle.027
+    400010: Circle.028
+    400012: Circle.029
+    400014: Circle.030
+    400016: Circle.031
+    400018: Cube.156
+    400020: //RootNode
+    2100000: Material.033
+    2100002: WineGlass
+    2100004: Material.015
+    2100006: Material.016
+    2100008: Material.014
+    2100010: Material.017
+    2300000: Circle.018
+    2300002: Circle.019
+    2300004: Circle.020
+    2300006: Circle.024
+    2300008: Circle.027
+    2300010: Circle.028
+    2300012: Circle.029
+    2300014: Circle.030
+    2300016: Circle.031
+    2300018: Cube.156
+    3300000: Circle.018
+    3300002: Circle.019
+    3300004: Circle.020
+    3300006: Circle.024
+    3300008: Circle.027
+    3300010: Circle.028
+    3300012: Circle.029
+    3300014: Circle.030
+    3300016: Circle.031
+    3300018: Cube.156
+    4300000: Cube.156
+    4300002: Circle.031
+    4300004: Circle.030
+    4300006: Circle.029
+    4300008: Circle.028
+    4300010: Circle.027
+    4300012: Circle.024
+    4300014: Circle.020
+    4300016: Circle.019
+    4300018: Circle.018
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
