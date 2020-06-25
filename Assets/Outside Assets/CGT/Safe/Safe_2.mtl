@@ -1,0 +1,18 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 04.03.2018 20:57:56
+
+newmtl 07___Default
+	Ns 9.999999
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588235 0.588235 0.588235
+	Kd 0.588235 0.588235 0.588235
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka Safe_2_AlbedoTransparency.png
+	map_Kd Safe_2_AlbedoTransparency.png
+	map_Ks Safe_2_MetallicSmoothness.png
+	map_bump -bm 0.300000 Map__10_Normal_Bump.tga
